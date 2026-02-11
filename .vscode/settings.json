@@ -1,0 +1,22 @@
+{
+    "chat.checkpoints.enabled": false,
+    "chat.agentsControl.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "chat.editMode.hidden": false,
+    "chat.exitAfterDelegation": false,
+    "chat.extensionTools.enabled": false,
+    "chat.extensionUnification.enabled": false,
+    "chat.includeApplyingInstructions": false,
+    "chat.sendElementsToChat.enabled": false,
+    "chat.tools.autoExpandFailures": false,
+    "chat.tools.terminal.autoApproveWorkspaceNpmScripts": false,
+    "chat.tools.terminal.enableAutoApprove": false,
+    "chat.tools.terminal.enforceTimeoutFromModel": false,
+    "chat.tools.terminal.preventShellHistory": false,
+    "chat.tools.todos.showWidget": false,
+    "chat.undoRequests.restoreInput": false,
+    "chat.useAgentSkills": false,
+    "chat.useAgentsMdFile": false,
+    "chat.viewSessions.enabled": false,
+    "inlineChat.holdToSpeech": false
+}
